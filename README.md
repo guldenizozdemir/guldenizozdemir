@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @guldenizozdemir
+- 👀 I’m interested in mobile developing 
+- 🌱 I’m currently learning flutter
+- 📫 How to reach me guldenizozdemir03@gmail.com
